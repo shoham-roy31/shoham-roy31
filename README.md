@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoham-roy31
-- 👀 I’m interested in Data Science and Quantum Algorithms
-- 🌱 I’m currently learning Quantum Machine Learning, Time Series, Deep Learining.
-- 📫 How to reach me 
+- 👀 I’m interested in Multi-Agent Optimization.
+- 🌱 I’m currently learning Game Theory and Stochastic Processes.
+- 📫 How to reach me shohamc3@gmail.com
 
 <!---
 shoham-roy31/shoham-roy31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
